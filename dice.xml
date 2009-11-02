@@ -29,7 +29,7 @@
       <option>20</option>
       <option>100</option>
     </select>
-    <input type=button value="Roll" id="butRoll" onClick="clickRoll()" />
+    Sides: <input type=button value="Roll" id="butRoll" onClick="clickRoll()" />
     <input type=button value="Delete rolls" id="butReset" onClick="resetRolls()" />
     </div>
     <div id="content_div" style="height: 50px"></div>
